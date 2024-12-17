@@ -1,0 +1,11 @@
+Bonjour Monsieur, 
+
+Voici mon projet, je ne savais pas si vous vouliez des commentaires, mais comme on nous a appris dans nos autres projet à en mettre j'en ai mis en anglais par principe. 
+Je vous transmet aussi les liens de plusieurs articles qui m'ont beaucoup aidé pour ce projet. 
+https://nouvelle-techno.fr/articles/mettre-en-place-une-pagination-en-php
+https://zestedesavoir.com/tutoriels/351/paginer-avec-php-et-sql/
+https://www.google.com/search?q=g%C3%A9n%C3%A9rer+des+donn%C3%A9es+dans+une+db+avec+faker&sca_esv=a70c56ff7b649c8e&rlz=1C1ONGR_frFR1027FR1027&sxsrf=ADLYWIIFKdN3SzO0KW_MaVNc9T6KXBn1CQ%3A1734445672764&ei=aIphZ4yjLoXYkdUPzv8W&ved=0ahUKEwiM99PRga-KAxUFbKQEHc6_BQAQ4dUDCBA&uact=5&oq=g%C3%A9n%C3%A9rer+des+donn%C3%A9es+dans+une+db+avec+faker&gs_lp=Egxnd3Mtd2l6LXNlcnAiLWfDqW7DqXJlciBkZXMgZG9ubsOpZXMgZGFucyB1bmUgZGIgYXZlYyBmYWtlcjIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRImA1Q-AVY9wpwAXgBkAEAmAFqoAH7AqoBAzQuMbgBA8gBAPgBAZgCBqACgwPCAgoQABiwAxjWBBhHmAMAiAYBkAYIkgcDNS4xoAe3EA&sclient=gws-wiz-serp#fpstate=ive&vld=cid:bd8388d4,vid:98LO9H9JmLo,st:0
+Je lance mon projet avec sur un serveur local car mon Xampp ne marche pas et je n'ai pas reussi a trouver d'ou provenait l'erreur.
+
+Cordialement, 
+Gabriel Tignon.
